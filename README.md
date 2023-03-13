@@ -46,9 +46,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/f7omQNmgiyjj
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://http://github-readme-stats-stgran66.vercel.app/?user=stgran66&theme=dark&background=000000)]
+[![GitHub Streak](https://github-readme-stats-pi-pink-49.vercel.app/?user=stgran66&theme=dark&background=000000)]
 <br/>
-[![Top Langs](https://http://github-readme-stats-stgran66.vercel.app/api/top-langs/?username=stgran66&layout=compact&theme=vision-friendly-dark)]
+[![Top Langs](https://github-readme-stats-pi-pink-49.vercel.app/api/top-langs/?username=stgran66&layout=compact&theme=vision-friendly-dark)]
   
 
 
