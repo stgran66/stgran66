@@ -14,7 +14,7 @@
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/f7omQNmgiyjj5sffvZ/giphy.gif" width="30">  from Poland.
-- :telescope: I’m starting my path as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I continue my path as a Software Engineer and contribute to frontend and backend for building web applications.
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
@@ -40,6 +40,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/f7omQNmgiyjj
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" **alt="typescript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
+
   
 </div>
 
